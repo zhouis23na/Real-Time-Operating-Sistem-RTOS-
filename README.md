@@ -157,3 +157,7 @@ LED berkedip bergantian
 ---
 
 ## Dokumentasi Hasil Percobaan
+
+
+https://github.com/user-attachments/assets/55fa8429-c3e7-4a14-b4de-a7bb1461bb57
+
